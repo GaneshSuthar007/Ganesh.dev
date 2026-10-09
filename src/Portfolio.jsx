@@ -39,7 +39,7 @@ const METRICS = [
 
 const RELEASES = [
   {
-    v: "v7.0.0",
+    v: "v5.0.0",
     current: true,
     company: "Versar Global Solutions",
     role: "Lead Software Engineer · Freelance",
@@ -52,7 +52,7 @@ const RELEASES = [
     tags: ["RAG", "Milvus", "Azure OpenAI", "NestJS", "PostgreSQL"],
   },
   {
-    v: "v5.0.0",
+    v: "v4.0.0",
     company: "Appinventiv",
     role: "Senior Software Developer",
     period: "Dec 2024 — Oct 2025",
@@ -64,7 +64,7 @@ const RELEASES = [
     tags: ["gRPC", "Microservices", "MongoDB", "Team lead"],
   },
   {
-    v: "v4.0.0",
+    v: "v3.0.0",
     company: "Pando India Software Consultants",
     role: "Senior Software Developer",
     period: "Jun 2024 — Dec 2024",
@@ -76,7 +76,7 @@ const RELEASES = [
     tags: ["Node.js", "MySQL", "Azure Functions", "ReactJS"],
   },
   {
-    v: "v3.0.0",
+    v: "v2.0.0",
     company: "Appentus Technologies",
     role: "Software Developer",
     period: "Mar 2019 — Jun 2024",
