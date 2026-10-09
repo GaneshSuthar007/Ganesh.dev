@@ -114,15 +114,6 @@ const SERVICES = [
     stack: ["NestJS", "Milvus", "Azure OpenAI", "PostgreSQL"],
   },
   {
-    id: "svc-bitdelta",
-    name: "Bitdelta.pro",
-    kind: "Crypto Trading System",
-    role: "Backend Lead",
-    desc: "Trading platform for buying and selling crypto. Migrated the legacy .NET MT5 codebase to NestJS and wired Chainalysis in for AML screening.",
-    metrics: [".NET → NestJS migration", "Chainalysis AML"],
-    stack: ["MT5", "Blockchain", "Microservices", "WebSocket"],
-  },
-  {
     id: "svc-sonnys",
     name: "Sonny's Direct",
     kind: "Multi-role Car Rental Platform",
