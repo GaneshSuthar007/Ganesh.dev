@@ -16,8 +16,8 @@ const LINKS = {
   linkedin: "https://www.linkedin.com/in/ganeshsuthar/",
   email: `mailto:${EMAIL}`,
   // Google Doc → direct PDF download (requires the doc to be shared as "Anyone with the link — Viewer")
-  resume: "https://drive.google.com/file/d/1lefxVFA1_bpHsdgyUq83yj_H3TygtG_O/export?format=pdf",
-  resumeView: "https://drive.google.com/file/d/1lefxVFA1_bpHsdgyUq83yj_H3TygtG_O/view",
+  resume: "https://drive.google.com/file/d/1lefxVFA1_bpHsdgyUq83yj_H3TygtG_O/view?usp=sharing",
+  resumeView: "https://drive.google.com/file/d/1lefxVFA1_bpHsdgyUq83yj_H3TygtG_O/view?usp=sharing",
 };
 
 /* ----------------------------- data ----------------------------- */
