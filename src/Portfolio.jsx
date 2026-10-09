@@ -43,25 +43,13 @@ const RELEASES = [
     current: true,
     company: "Versar Global Solutions",
     role: "Lead Software Engineer · Freelance",
-    period: "Jun 2026 — present",
+    period: "Oct 2025 — present",
     place: "Remote",
     added: [
       "Production RAG pipelines — Milvus vector storage, Azure OpenAI embeddings + generation",
       "NestJS microservice delivery layer on PostgreSQL",
     ],
     tags: ["RAG", "Milvus", "Azure OpenAI", "NestJS", "PostgreSQL"],
-  },
-  {
-    v: "v6.0.0",
-    company: "Delta6labs",
-    role: "Backend Tech Lead",
-    period: "Oct 2025 — May 2026",
-    place: "Noida, IN",
-    added: [
-      "Led backend team for crypto & blockchain trading systems on MT5",
-      "Core infrastructure, PostgreSQL data modelling, API standardisation across services",
-    ],
-    tags: ["MT5", "Crypto", "Node.js", "NestJS", "PostgreSQL"],
   },
   {
     v: "v5.0.0",
@@ -101,22 +89,10 @@ const RELEASES = [
     tags: ["NestJS", "WebSocket", "AWS", "Redis", "MongoDB"],
   },
   {
-    v: "v2.0.0",
-    company: "The NineHertz",
-    role: "NodeJS Developer",
-    period: "Aug 2018 — Feb 2019",
-    place: "Jaipur, IN",
-    added: [
-      "REST APIs for Android/iOS, Stripe + PayPal billing",
-      "WebSocket ticket booking with automated OTP & notification flows",
-    ],
-    tags: ["Express.js", "Stripe", "PayPal", "Twilio"],
-  },
-  {
     v: "v1.0.0",
     company: "Appiqo Technologies",
     role: "NodeJS Developer",
-    period: "Aug 2016 — Aug 2018",
+    period: "Aug 2016 — Feb 2019",
     place: "Jaipur, IN",
     note: "initial release",
     added: [
